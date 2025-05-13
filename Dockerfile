@@ -11,8 +11,6 @@ COPY requirements.txt ./
 COPY . . 
 RUN pip install langchain openai python-dotenv
 RUN apt-get update && apt-get install -y git && apt-get clean
-RUN apt-get update && apt-get install wget -y
-
 
 # Expose the port (optional for web-based apps)
 EXPOSE 8000

@@ -1,0 +1,13 @@
+]11;?\]10;?\
+   FastAPI   Starting development server 🚀
+ 
+             Searching for package file structure from directories with __init__.py files
+🧠 Knowledge base is empty or missing. Loading...
+INFO Dropping collection                                                                                                          
+INFO Table 'ai.ai_pdf_knowledge_base' dropped successfully.                                                                       
+INFO Creating collection                                                                                                          
+INFO Loading knowledge base                                                                                                       
+INFO Reading: https://wedigitify.com/wp-content/uploads/2024/07/AnOverviewOfTransformingYourBusinesswithAIAgents.pdf              
+INFO Inserted batch of 13 documents.                                                                                              
+INFO Added 13 documents to knowledge base                                                                                         
+
